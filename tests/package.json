@@ -1,0 +1,12 @@
+{
+  "name": "lab3-react-notes-tests",
+  "version": "1.0.0",
+  "description": "Cypress tests for the Lab 3 React Notes assignment.",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^15.5.0"
+  }
+}
